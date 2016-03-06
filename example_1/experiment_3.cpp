@@ -3,9 +3,6 @@
 // Google's solution: https://developers.google.com/edu/c++/solutions/1-2
 // Difference: Google uses cout << setiosflags (ios::left) before the for-loops. 
 
-#include <iostream> 
-using namespace std; 
-
 #include <iostream>
 #include <iomanip> 
 using namespace std; 

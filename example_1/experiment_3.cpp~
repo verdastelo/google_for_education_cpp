@@ -1,6 +1,7 @@
 // experiment_3.cpp: Chetan Anand
 // Description: A program that prints "Hello World!" (left-aligned) 4 times on a line for 6 lines, where each is printed in a field of 17 spaces.
-// Google's solution: 
+// Google's solution: https://developers.google.com/edu/c++/solutions/1-2
+// Difference: Google uses cout << setiosflags (ios::left) before the for-loops. 
 
 #include <iostream> 
 using namespace std; 
